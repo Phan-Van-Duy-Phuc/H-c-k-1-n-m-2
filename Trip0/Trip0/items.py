@@ -12,7 +12,14 @@ class Trip0Item(scrapy.Item):
     hotel_name = scrapy.Field()
     rank = scrapy.Field()
     review = scrapy.Field()
-    price = scrapy.Field()
+    price_min = scrapy.Field()
+    price_max = scrapy.Field()
     address = scrapy.Field()
     review_number = scrapy.Field()
+    room_number = scrapy.Field()
+    languages = scrapy.Field()
+    number_images_Traveler = scrapy.Field()
+    number_room_dining= scrapy.Field()
+    number_room_suite= scrapy.Field()
+
     pass

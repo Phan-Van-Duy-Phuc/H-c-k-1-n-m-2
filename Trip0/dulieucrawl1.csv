@@ -1,0 +1,1241 @@
+address,hotel_name,languages,number_room_dining,number_room_suite,rank,review,review_number,price_max,price_min,room_number,number_images_Traveler
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,697674,279070,25,NA
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8232558,953488,50,39
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,395349,279070,10,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1465116,558140,56,44
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,953488,465116,15,7
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,697674,279070,25,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,395349,279070,10,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2883721,1837209,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,651163,488372,14,NA
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,767442,279070,20,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4116279,1953488,100,173
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,697674,348837,30,31
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2720930,1790698,19,189
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,953488,465116,15,7
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8232558,953488,50,39
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4116279,1953488,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2744186,1720930,80,221
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,767442,279070,20,NA
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2720930,1790698,19,189
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,651163,488372,14,NA
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2046512,1302326,250,259
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1906977,720930,22,68
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3302326,2279070,356,676
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2232558,1604651,7,27
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1534884,883721,112,100
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,697674,279070,25,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,767442,279070,20,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1465116,558140,56,44
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3302326,2279070,356,676
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,697674,348837,30,31
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,953488,465116,15,7
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1883721,1069767,71,45
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2744186,1720930,80,221
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1465116,558140,56,44
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,767442,279070,20,NA
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,953488,488372,NA,NA
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8232558,953488,50,39
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,953488,465116,15,7
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,395349,279070,10,NA
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4418605,2441860,310,1118
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3302326,2279070,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,697674,348837,30,31
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,953488,488372,NA,NA
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2395349,1372093,210,138
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4116279,1953488,100,173
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1465116,558140,56,44
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1465116,558140,56,44
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2232558,1116279,145,171
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,651163,488372,14,NA
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,953488,465116,15,7
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2395349,1372093,210,138
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2046512,1302326,250,259
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1906977,720930,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,395349,279070,10,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2232558,1604651,7,27
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,697674,279070,25,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4116279,1953488,100,173
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4418605,2441860,310,1118
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1465116,558140,56,44
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3302326,2279070,356,676
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,697674,348837,30,31
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2720930,1790698,19,189
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2395349,1372093,210,138
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4116279,1953488,100,173
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,767442,302326,NA,14
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,953488,488372,NA,NA
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2395349,1372093,210,138
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8232558,953488,50,39
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2232558,1604651,7,27
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4418605,2441860,310,1118
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2744186,1720930,80,221
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1465116,558140,56,44
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,697674,279070,25,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,767442,279070,20,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2232558,1116279,145,171
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,651163,488372,14,NA
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1906977,720930,22,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1883721,1069767,71,45
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2883721,1837209,170,123
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3302326,2279070,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,953488,488372,NA,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,767442,302326,NA,14
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8232558,953488,50,39
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2232558,1116279,145,171
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2720930,1790698,19,189
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,953488,488372,NA,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2395349,1372093,210,138
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1534884,883721,112,100
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1906977,720930,22,68
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,697674,348837,30,31
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,767442,302326,NA,14
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,953488,465116,15,7
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,395349,279070,10,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1465116,558140,56,44
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2232558,1116279,145,171
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,697674,348837,30,31
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2720930,1790698,19,189
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,651163,488372,14,NA
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1534884,883721,112,100
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2232558,1604651,7,27
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1906977,720930,22,68
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2232558,1116279,145,171
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2046512,1302326,250,259
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,953488,488372,NA,NA
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1534884,883721,112,100
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1906977,720930,22,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2744186,1720930,80,221
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,953488,465116,15,7
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,395349,279070,10,NA
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,697674,348837,30,31
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,953488,465116,15,7
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8232558,953488,50,39
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1534884,883721,112,100
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2744186,1720930,80,221
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1534884,883721,112,100
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,953488,465116,15,7
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2883721,1837209,170,123
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2232558,1116279,145,171
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1465116,558140,56,44
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3302326,2279070,356,676
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,953488,465116,15,7
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1906977,720930,22,68
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1534884,883721,112,100
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,395349,279070,10,NA
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,697674,279070,25,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4116279,1953488,100,173
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2883721,1837209,170,123
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2232558,1116279,145,171
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3302326,2279070,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,767442,302326,NA,14
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2395349,1372093,210,138
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2232558,1604651,7,27
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8232558,953488,50,39
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,395349,279070,10,NA
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4116279,1953488,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1465116,558140,56,44
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2720930,1790698,19,189
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,651163,488372,14,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,767442,302326,NA,14
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2720930,1790698,19,189
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,395349,279070,10,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2720930,1790698,19,189
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1906977,720930,22,68
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,697674,279070,25,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1883721,1069767,71,45
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4116279,1953488,100,173
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,767442,279070,20,NA
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2232558,1116279,145,171
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2720930,1790698,19,189
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,953488,488372,NA,NA
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,395349,279070,10,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2883721,1837209,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4116279,1953488,100,173
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,697674,348837,30,31
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,651163,488372,14,NA
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2232558,1604651,7,27
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8232558,953488,50,39
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,767442,279070,20,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2883721,1837209,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2232558,1116279,145,171
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,651163,488372,14,NA
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2720930,1790698,19,189
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2046512,1302326,250,259
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4418605,2441860,310,1118
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1883721,1069767,71,45
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,767442,302326,NA,14
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,697674,348837,30,31
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8232558,953488,50,39
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1534884,883721,112,100
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1906977,720930,22,68
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2232558,1604651,7,27
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,697674,279070,25,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,767442,279070,20,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4418605,2441860,310,1118
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2232558,1116279,145,171
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,395349,279070,10,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2883721,1837209,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1465116,558140,56,44
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,953488,465116,15,7
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4418605,2441860,310,1118
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,767442,302326,NA,14
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1534884,883721,112,100
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8232558,953488,50,39
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,953488,465116,15,7
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,697674,279070,25,NA
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4116279,1953488,100,173
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2883721,1837209,170,123
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2744186,1720930,80,221
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,697674,348837,30,31
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2720930,1790698,19,189
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,767442,302326,NA,14
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2232558,1604651,7,27
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1534884,883721,112,100
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,767442,279070,20,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4116279,1953488,100,173
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2883721,1837209,170,123
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,953488,488372,NA,NA
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,651163,488372,14,NA
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1906977,720930,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4318182,2386364,310,1118
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,697674,279070,25,NA
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,651163,488372,14,NA
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2232558,1604651,7,27
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1883721,1069767,71,45
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4418605,2441860,310,1118
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4116279,1953488,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2744186,1720930,80,221
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3302326,2279070,356,676
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,767442,302326,NA,14
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,953488,488372,NA,NA
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2720930,1790698,19,189
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2395349,1372093,210,138
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,674419,279070,32,15
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4418605,2441860,310,1118
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1744186,1162791,15,52
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1465116,558140,56,44
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3302326,2279070,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2395349,1372093,210,138
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,953488,465116,15,7
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8232558,953488,50,39
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2232558,1604651,7,27
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,704545,363636,12,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,395349,279070,10,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4418605,2441860,310,1118
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4116279,1953488,100,173
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2883721,1837209,170,123
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,750000,295455,NA,14
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,953488,488372,NA,NA
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2181818,1568182,7,27
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1906977,720930,22,68
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1465116,906977,85,68
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,395349,279070,10,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1840909,1045455,71,45
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"115 Tran Phu Ward 5, Vung Tau 790000 Vietnam",Marina Bay Vung Tau Resort & Spa,"All languages,English,Vietnamese,German,Russian",34,42,7,Excellent,74,4022727,1909091,100,173
+"159 Thuy Van Street, Vung Tau 790000 Vietnam",The Imperial Hotel & Resort Vung Tau,"All languages,English,Vietnamese,Chinese (Trad.)",3,277,3,Excellent,895,4418605,2441860,310,1118
+"02 Truong Cong Dinh Ward 2, Vung Tau 790000 Vietnam",Fusion Suites Vung Tau,"All languages,English,Vietnamese",21,67,5,Excellent,103,2818182,1795455,170,123
+"69 THUY VAN, PHU_NG 2, Vung Tau 78000 Vietnam",Premier Pearl Hotel Vung Tau,"All languages,Vietnamese,English",11,23,19,Excellent,13,NA,NA,203,17
+"98 Phan Chu Trinh, Vung Tau Vietnam",The Wind Mountain Side Hotel,"All languages,English,French,Dutch",14,20,15,Excellent,42,1704545,1136364,15,52
+"National Highway 55, Binh Chau Xuyen Moc District, Ba Ria, Vung Tau Vietnam",Binh Chau Hot Spring Resort,"All languages,English,Vietnamese,Russian",24,34,3,Very good,78,2181818,1090909,145,171
+"21 Thuy Van Street, Ward 2, Vung Tau Vietnam",Corvin Hotel,"All languages,English,Chinese (Trad.),Vietnamese",7,13,31,Very good,67,1431818,545455,56,44
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,681818,522727,30,NA
+"15 Thi Sach Street Thang Tam Ward, Vung Tau Vietnam",Pullman Vung Tau,"All languages,English,Vietnamese,Chinese (Sim.)",70,133,6,Very good,461,3227273,2227273,356,676
+"47 Phan Van Tri street Thang Tam ward, Vung Tau 790000 Vietnam",VeeVoo hotel,"All languages,English,Vietnamese,French",3,31,6,Very good,18,681818,340909,30,31
+"03-06 Ha Long Ward 2, Vung Tau 790000 Vietnam",Mercure Vung Tau,"All languages,English,Vietnamese,Japanese,French",23,48,2,Excellent,127,2681818,1681818,80,221
+"B36 Thai Van Lung Street, Ward 2 Zone A Chau, Corner Thai Van Lung - Bau Sen 6, Vung Tau 78000 Vietnam",Mi Lan Corner Hotel,"All languages,English,Hebrew",4,7,48,Very good,2,767442,302326,NA,14
+"240 - 242 Phan Chu Trinh, Phuong 2, Vung Tau Vietnam",Milan Boutique Resort,"All languages,English,Vietnamese",NA,NA,98,Average,2,931818,477273,NA,NA
+"117 Thuy Van Thang Tam, Vung Tau 790000 Vietnam",ibis Styles Vung Tau,"All languages,Vietnamese,English",34,36,1,Excellent,206,2000000,1272727,250,259
+"07-08 Ta Uyen Ward 3, Vung Tau 78000 Vietnam",Joi Hotel,NA,24,18,,NA,NA,NA,NA,51,18
+"179 Thuy Van Ward 8, Vung Tau 790000 Vietnam",Cao Hotel,"All languages,English,Vietnamese,French",26,35,9,Excellent,107,2340909,1340909,210,138
+"B10, 84 Phan Chu Trinh, Vung Tau Vietnam",The Wind Boutique Resort,"All languages,English,Chinese (Trad.),Vietnamese",7,50,8,Excellent,107,2659091,1750000,19,189
+"Khu Pho Hai Phong 1, Long Hai Town Long Dien District, Ba Ria-Vung Tau, Vung Tau 44154 Vietnam",Palace Resort Long Hai Beach,"All languages,English,Vietnamese,French",1,7,64,Very good,15,2232558,1604651,7,27
+"302 Phan Chu Trinh Ward 2, Vung Tau 790000 Vietnam",Novena Hotel,"All languages,English,Vietnamese",10,23,10,Excellent,6,659091,272727,32,15
+"01 Nguyen Trai Ward 1, Vung Tau 790000 Vietnam",Palace Hotel,"All languages,English,Chinese (Trad.),Vietnamese",3,43,13,Very good,174,1500000,863636,112,100
+"Ben Cat Beach, Phuoc Thuan Ward Ho Tram Area, Xuyen Moc District, Vung Tau 74 Vietnam",River Ray Estates Resort,"All languages,English,Vietnamese,German",16,17,25,Very good,45,8045455,931818,50,39
+"6/11 Nguyen Du, Phuong 1, Thanh Pho, Vung Tau Vietnam",Lotus Apartment Hotel,"All languages,English,German,French",4,10,2,Excellent,36,931818,454545,15,7
+"102/6-108/6 Tran Phu Street Ward 5, Vung Tau 790000 Vietnam",Valley Mountain Hotel,"All languages,English,French,Japanese",25,28,20,Very good,45,1863636,704545,22,68
+"16 Ly Thuong Kiet Ward 1, Vung Tau 790000 Vietnam",Ngoc Linh Luxury Hotel,"All languages,English,Vietnamese",NA,NA,39,Excellent,2,636364,477273,14,NA
+"09 Thong Nhat Street, Ward 1, Vung Tau Vietnam",Muong Thanh Vung Tau Hotel,"All languages,Vietnamese,English,Chinese (Trad.)",11,39,4,Excellent,169,1431818,886364,85,68
+"12/1 Hoang Hoa Tham, Ward 2, Vung Tau Vietnam",Co Ba Hotel,"All languages,English",NA,NA,60,Very good,8,697674,534884,30,NA
+"H15 Duong So 1 A Chau Area Ward 15, Vung Tau Vietnam",Sakura Hotel,"All languages,English,French,Russian",NA,NA,4,Excellent,17,386364,272727,10,NA
+"81/16 Thuy Van, Ward 2, Vung Tau Vietnam",Nguyen Ha Hotel,"All languages,English,French,German,Vietnamese",NA,NA,23,Very good,10,681818,272727,25,NA
+"57D Dinh Tien Hoang, Vung Tau 790000 Vietnam",7S Blue Sea Hotel & Apartment,"All languages,English,Vietnamese",NA,NA,29,Very good,4,750000,272727,20,NA
+"01 Thuy Van, Ward 8, Vung Tau Vietnam",Hai Duong Intourco Resort,"All languages,English,Russian,French",15,57,8,Very good,23,1883721,1069767,71,45
+"A3 Thuy Duong 3, Vung Tau 790000 Vietnam",Ocean Pearl Villa,"All languages,English",NA,NA,42,Excellent,1,720930,372093,12,NA
